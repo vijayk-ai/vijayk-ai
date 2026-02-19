@@ -6,18 +6,6 @@ I work across AI technologies including:
 
 ---
 
-## Project Overview
-<Brief description of the project, e.g.:>
-
-This project demonstrates a <type> AI system designed to:
-
-- <Primary feature 1> (e.g., Evaluate LLM outputs for consistency)  
-- <Primary feature 2> (e.g., Integrate vector databases for knowledge storage)  
-- <Primary feature 3> (e.g., Build dashboards with Streamlit for visualization)  
-- <Primary feature 4> (optional: orchestration, pipelines, multi-agent collaboration)  
-
----
-
 ## Key Features
 - Large Language Model (LLM) integration  
 - Retrieval-Augmented Generation (RAG) pipelines  
@@ -70,7 +58,7 @@ cd Agentic_AI_Without_Memory
 pip install -r requirements.txt
 
 
-2.  
+2. TBD 
 
 
 
